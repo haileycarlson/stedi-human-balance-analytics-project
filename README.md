@@ -15,11 +15,11 @@ The STEDI team has developed a cutting-edge STEDI Step Trainer equipped with sen
 - Mobile app collects user data and interfaces with device sensors.
 
 ### Data Collection:
--Step Trainer records object detection distances through motion sensors.
--Mobile app uses the mobile phone accelerometer to detect motion in the X, Y, and Z directions.
+- Step Trainer records object detection distances through motion sensors.
+- Mobile app uses the mobile phone accelerometer to detect motion in the X, Y, and Z directions.
 
 ### User Participation:
--Millions of early adopters expressing intrest in purchasing and using the STEDI Step accelerometer data for research.
+- Millions of early adopters expressing intrest in purchasing and using the STEDI Step accelerometer data for research.
 
 ## Project Goals
 1. **Data Extraction:** Retrieve data from the sensors of the STEDI Step Trainer and the accompanying mobile app.
